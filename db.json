@@ -1,0 +1,78 @@
+{
+    "status": 200,
+    "count": 12,
+    "data": [
+        {
+            "id": "8",
+            "name": "open24hour",
+            "label": "24時間営業",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond06.png"
+        },
+        {
+            "id": "10",
+            "name": "breakfast",
+            "label": "朝食メニューあり",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond11.png"
+        },
+        {
+            "id": "19",
+            "name": "parking_flag",
+            "label": "駐車場あり",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond05.png"
+        },
+	{
+            "id": "27",
+            "name": "drink",
+            "label": "ドリンク",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond05.png"
+        },
+	{
+            "id": "28",
+            "name": "beer",
+            "label": "ビール",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond05.png"
+        },
+	{
+            "id": "1",
+            "name": "card",
+            "label": "クレジットカード利用可",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond05.png"
+        },
+	{
+            "id": "998",
+            "name": "unknow_1",
+            "label": "キャッシュレス決済利用可",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond05.png"
+        },
+	{
+            "id": "43",
+            "name": "smart_order",
+            "label": "モバイルオーダー利用可",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond05.png"
+        },
+	{
+            "id": "999",
+            "name": "unknow_2",
+            "label": "デリバリー",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond05.png"
+        },
+	{
+            "id": "16",
+            "name": "multipurpose_restroom",
+            "label": "多目的トイレ",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond05.png"
+        },
+	{
+            "id": "15",
+            "name": "baby_seat",
+            "label": "ベビーシート",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond05.png"
+        },
+	{
+            "id": "45",
+            "name": "smoking=2",
+            "label": "店内禁煙",
+            "icon": "https://stag-map-api.zensho.com/jp/img/icon_cond05.png"
+        }
+    ]
+}
